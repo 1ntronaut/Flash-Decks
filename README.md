@@ -4,7 +4,10 @@
 </h1>
 
 <!-- Shields -->
-<p align="center"><a href="https://github.com/tallguyjenks/Flash-Decks/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=GPL3&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a></p>
+<p align="center">
+<a href="https://github.com/tallguyjenks/Flash-Decks/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=GPL3&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a>
+<a href="https://github.com/tallguyjenks/Flash-Decks/graphs/contributors"><img src="https://img.shields.io/github/contributors/tallguyjenks/Flash-Decks"></a>
+</p>
 
 <!-- Description -->
 > flashcards in your terminal! This repository contains flashcard decks made by users of [flash.sh](https://github.com/tallguyjenks/flash.sh) for the purpose of sharing pre-made decks with others.
