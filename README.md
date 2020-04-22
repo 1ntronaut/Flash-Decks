@@ -35,4 +35,4 @@ If your deck does not quite fit into one of the existing category folders, by al
 </h3>
 
 <!-- Shields -->
-<p align="center"><a href="https://github.com/tallguyjenks/Flash-Decks/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a></p>
+<p align="center"><a href="https://github.com/tallguyjenks/Flash-Decks/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=GPL3&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a></p>
