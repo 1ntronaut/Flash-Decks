@@ -27,6 +27,8 @@ Organized like this:
 
 > \* The score determines how often which cards are shown. A good idea is to start all of the cards out at 0 so they are all served to the user equally.
 
+If your deck does not quite fit into one of the existing category folders, by all means file an issue or include a proper subject area directory with your pull request.
+
 <!-- Footer Image -->
 <h3 align="center">
 <img src="/img/flashfooter.png">
